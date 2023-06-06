@@ -1,48 +1,29 @@
-# Hola! mi nombre es Matias Choque
-### Tambien conocido como MatiiChoque en GitHub
-
-Desde pequeño soy un gran apasionado de la tecnologia y la programacion.
-
-Mi primer lenguaje fue Pascal y Assembler. 
+<h1 align="center">Hola 👋, soy Matias Choque</h1>
+<h3 align="center">Desde pequeño he sido un gran apasionado de la tecnología y la programación.</h3>
 
 Mi objetivo principal es poder ingresar a mi primer trabajo IT, adquirir la mayor experiencia posible, y así poder seguir desarrollándome en la carrera que me apasiona. 👨🏻‍💻
 
-### Tecnologias 
+<p align=" left"> <img src="https://komarev.com/ghpvc/?username=matiichoque&label=Profile%20views&color=0e75b6&style=flat" alt="matiichoque" /> </p>
 
-El Bootcamp de Henry  me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologias que manejo son:
+- 🤝 Actualmente estoy colaborando en [SixCircle](https://github.com/six-circles)
 
-. Javascript
-. React.js
-. Node.js
-. Express.js
-. PostgreSQL
-. Sequelize
-. Mongodb
-. Mongoose
-. JWT
-. HTML
-. CSS
-. GIT
+- 🌱 Actualmente estoy aprendiendo en **Bootcamp Henry**
 
+- 📫 Cómo llegar a mi **choquematia@gmail.com**
 
-No dudes en contactarme!
-Juntos podemos embarcarnos en el desarrollo de grandes proyectos que cambien la vida de miles de personas.
+<h3 align="left ">Conéctate conmigo:</h3>
+<h4 align="left">LinkedIn:</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/matias-choque-0946a9262" target="blank"><img align="center" src=" " alt="https://www.linkedin.com /en/matias-choque-0946a9262/" height="30" width="40" /></a>
+</p>
 
-### Linkedin: https://www.linkedin.com/in/matias-choque-0946a9262/
-### Correo: choquematia@gmail.com
+<h3 align="left">Herramientas:</h3>
+. Javascript . React.js . Node.js . Express.js . PostgreSQL . Sequelize . Mongodb . Mongoose . JWT . HTML . CSS . GIT
 
+<a></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiichoque&show_icons=true&locale=en&layout=compact" alt="matiichoque" /> </p>
 
-<!--
-**MatiiChoque/MatiiChoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=matiichoque&show_icons=true&locale=en" alt="matiichoque" /> </p>
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matiichoque&" alt="matiichoque" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
