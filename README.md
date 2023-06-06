@@ -9,7 +9,7 @@ Mi objetivo principal es poder ingresar a mi primer trabajo IT, adquirir la mayo
 
 - 🌱 Actualmente estoy aprendiendo en **Bootcamp Henry**
 
-- 📫 Cómo llegar a mi **choquematia@gmail.com**
+- 📫 Cómo llegar a mi: **choquematia@gmail.com**
 
 <h3 align="left ">Conéctate conmigo:</h3>
 <h4 align="left">LinkedIn:</h4>
