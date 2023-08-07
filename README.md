@@ -5,18 +5,25 @@ Mi objetivo principal es poder ingresar a mi primer trabajo IT, adquirir la mayo
 
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=matiichoque&label=Profile%20views&color=0e75b6&style=flat" alt="matiichoque" /> </p>
 
-- 🤝 Actualmente estoy colaborando en [SixCircle](https://github.com/six-circles)
+- 🤝 Actualmente estoy colaborando en [CreativeHeaven](https://github.com/MatiiChoque/CreativeHaven)
 
-- 🌱 Actualmente estoy aprendiendo en **Bootcamp Henry**
+- 👩🏽‍🎓 Graduado del bootcamp **Soy Henry** como desarrolladora full-stack.
 
-- 📫 Cómo llegar a mi: **choquematia@gmail.com**
+- 📚 Aprendí de forma autodidacta NextJS, MongoDB, Typescript, Tailwind y Bootstrap.
+
+
+
+Aspiro adquirir conocimientos valiosos 🧠, obtener experiencias enriquecedoras 🏭, colaborar de manera efectiva 🤝 y contribuir al desarrollo de productos innovadores para el mundo 🌎!
 
 <h3 align="left ">Conéctate conmigo:</h3>
 👩🏽‍💻 <a href="https://www.linkedin.com/in/matias-choque/" >LinkedIn</a>
+
+📩 <a href="mailto:marescanahir18@gmail.com" >Correo electrónico</a>
 </p>
 
+
 ## **🛠️Tecnologías y herramientas que uso:**
- HTML, CSS3, JavaScript, React.js,  Node.js, Express, PostgreSQL, Next.js, Redux, Tailwind, MongoDB, Git, Sequelize.
+ HTML, CSS3, JavaScript, React.js,  Node.js, Express, PostgreSQL, Next.js, Redux, Tailwind, MongoDB, Git, Sequelize, Bootstrap y Typescript .
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Icono de HTML" width="56" height="56" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Icono de HTML" width="56" height="56" />
@@ -31,6 +38,8 @@ Mi objetivo principal es poder ingresar a mi primer trabajo IT, adquirir la mayo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Icono de HTML" width="56" height="56" />
     <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Icono de HTML" width="56" height="56" />
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="Icono de HTML" width="56" height="56" />
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Icono de HTML" width="56" height="56" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Icono de HTML" width="56" height="56" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiichoque&show_icons=true&locale=en&layout=compact" alt="matiichoque" /> </p>
 
