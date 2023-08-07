@@ -19,6 +19,8 @@ Aspiro adquirir conocimientos valiosos 🧠, obtener experiencias enriquecedoras
 👩🏽‍💻 <a href="https://www.linkedin.com/in/matias-choque/" >LinkedIn</a>
 
 📩 <a href="mailto:choquematia@gmail.com" >Correo electrónico</a>
+
+📲 🇦🇷 (+54) 0387-5193290
 </p>
 
 
