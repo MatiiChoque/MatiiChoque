@@ -18,7 +18,7 @@ Aspiro adquirir conocimientos valiosos 🧠, obtener experiencias enriquecedoras
 <h3 align="left ">Conéctate conmigo:</h3>
 👩🏽‍💻 <a href="https://www.linkedin.com/in/matias-choque/" >LinkedIn</a>
 
-📩 <a href="mailto:marescanahir18@gmail.com" >Correo electrónico</a>
+📩 <a href="mailto:choquematia@gmail.com" >Correo electrónico</a>
 </p>
 
 
